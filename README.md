@@ -1,4 +1,4 @@
-Discord user: kenyati
+Discord user: 3persona
 
 <!---
 kenyati/kenyati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
